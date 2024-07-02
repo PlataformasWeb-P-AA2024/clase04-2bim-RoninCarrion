@@ -7,12 +7,16 @@ body {
 
 }
 
+.top_menu a{
+  color: aquamarine;;
+}
+
 section {
   background: #F4AB14;
 }
 
 header {
-  background: #034275;
+  background: #febe10;
   color: #FFF;
 }
 /* manejo de las características de la etiqueta table*/
